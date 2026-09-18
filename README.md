@@ -1,3 +1,3 @@
-Hello everyone, this is RAYFIELD SOURCE CODE
+Hello everyone, this is my imGUI roblox libary wich i took from rayfield
 
-and i just took the src and turned it into one file, so enjoy!
+this is changed rayfield so i will release the docs soon!
