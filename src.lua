@@ -1,5 +1,4 @@
--- Kint1x Gen2 single-file bundle (clean)
--- Generated automatically from src/
+-- Kint1x Gen1 Source code
 
 local __kmodules = {}
 local __kcache = {}
